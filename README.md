@@ -10,15 +10,6 @@ This project is a simple clone of the X (formerly Twitter) UI using only **HTML*
 - Simple hover effects and animations.
 - Easily extendable to add more functionality.
 
-## Project Structure
-
-├── index.html # Main HTML file for the X UI 
-├── css 
-│ └── tailwind.css # Tailwind CSS styles 
-├── README.md # This file 
-  └── tailwind.config.js # Tailwind configuration file
-
-
 ## Technologies Used
 
 - **HTML**: Provides the basic structure for the clone.
